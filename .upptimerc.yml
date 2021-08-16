@@ -3,14 +3,30 @@ owner: volfclub # Your GitHub organization or username, where this repository li
 repo: travellings-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 开往
+    url: https://travellings.now.sh
+  - name: 狼牌工作网址导航
+    url: https://www.volf.club
+  - name: 音速装机
+    url: https://sonic.volf.club
+  - name: 原谅糖
+    url: https://yltang.cn
+  - name: Barkure
+    url: https://guguga.cn
+  - name: Yamdr
+    url: https://www.yamdr.cn
+  - name: Arect和他的
+    url: https://www.kanofans.com
+  - name: Ryan Wang's Blog
+    url: https://ryanc.cc
+  - name: Seija
+    url: https://seija.me
+  - name: 致远博客
+    url: https://blog.uniartisan.com
+  - name: JQM's Site
+    url: https://jinqimu.xyz
+  - name: CrownDaisy
+    url: https://crowndaisy.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -21,6 +37,7 @@ status-website:
   name: 测试
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  theme: ocean
   navbar:
     - title: Status
       href: /
@@ -29,3 +46,12 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 5 * * *"
