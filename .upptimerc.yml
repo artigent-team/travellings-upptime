@@ -3,30 +3,157 @@ owner: volfclub # Your GitHub organization or username, where this repository li
 repo: travellings-upptime # The name of this repository
 
 sites:
-  - name: 开往
-    url: https://travellings.now.sh
-  - name: 狼牌工作网址导航
+# 0-99
+  - name: "开往"
+    url: https://github.com/volfclub/travelling
+  - name: "狼牌工作网址导航"
     url: https://www.volf.club
-  - name: 音速装机
+  - name: "音速装机"
     url: https://sonic.volf.club
-  - name: 原谅糖
+  - name: "原谅糖"
     url: https://yltang.cn
-  - name: Barkure
+  - name: "Barkure"
     url: https://guguga.cn
-  - name: Yamdr
+  - name: "Yamdr"
     url: https://www.yamdr.cn
-  - name: Arect和他的
+  - name: "Arect和他的"
     url: https://www.kanofans.com
-  - name: Ryan Wang's Blog
+  - name: "Ryan Wang's Blog"
     url: https://ryanc.cc
-  - name: Seija
+  - name: "Seija"
     url: https://seija.me
-  - name: 致远博客
+  - name: "致远博客"
     url: https://blog.uniartisan.com
-  - name: JQM's Site
-    url: https://jinqimu.xyz
-  - name: CrownDaisy
+  - name: "JQM's Site"
+    url: https://jinqimu.github.io
+  - name: "CrownDaisy"
     url: https://crowndaisy.com
+  - name: "殆己"
+    url: https://heycmm.cn
+  - name: "Legroft"
+    url: https://jinjis.cn
+  - name: "FANTASY"
+    url: https://blog.tigerxly.com
+  - name: "DIego's Blog"
+    url: http://blog.diego.plus:5800
+  - name: "果子小酱"
+    url: https://sublimerui.top
+  - name: "Sakura"
+    url: https://cwxyr.me
+  - name: "五叶魔法书"
+    url: https://grimoire.cn
+  - name: "风渐远"
+    url: https://www.naraku.cn
+  - name: "XiYo吧"
+    url: https://www.xiyo8.cn
+  - name: "锴"
+    url: https://www.wangkai88.com
+  - name: "Zeruns's Blog"
+    url: https://blog.zeruns.tech
+  - name: "Guqing's Blog"
+    url: https://guqing.xyz
+  - name: "非礼勿言"
+    url: https://feiliwuyan.com
+  - name: "星云C馆"
+    url: https://www.m78.co
+  - name: "Cheung"
+    url: https://icheung.net
+  - name: "雁陎的自耕地"
+    url: https://www.sitstars.com
+  - name: "阿猫阿狗"
+    url: https://ionssource.cn
+  - name: "风也温柔"
+    url: https://blog.kaygb.com
+  - name: "云游君的小站"
+    url: https://www.yunyoujun.cn
+  - name: "Eltrac's Track"
+    url: https://blog.guhub.cn
+  - name: "yuaneuro的博客"
+    url: https://yuaneuro.cn
+  - name: "krau'blog"
+    url: https://krau.top
+  - name: "Weifeng's Blog"
+    url: https://wfblog.net
+  - name: "ajian"
+    url: https://blog.yegetables.cn
+  - name: "freejishu的美丽世界"
+    url: https://www.freejishu.com
+  - name: "小太の游乐园"
+    url: https://baka.fun
+  - name: "Zhou‘s Blog"
+    url: https://idream.ink
+  - name: "地皮-DefiedParty"
+    url: https://dpii.club
+  - name: "CORE"
+    url: https://core.moe
+  - name: "Lin. 's Blog"
+    url: https://www.lin03.cn
+  - name: "TigerRoot"
+    url: https://blog.tigerroot.cn
+  - name: "蝶恋花"
+    url: https://kylin.dev
+  - name: "Pluveto"
+    url: https://www.pluvet.com
+  - name: "艺术长廊"
+    url: https://www.6zgm.com
+  - name: "Ojhdt's Blog"
+    url: https://blog.ojhdt.com
+  - name: "萌豚 Moechu"
+    url: https://moechu.cn
+  - name: "ncc的个人网站"
+    url: https://www.zqcnc.cn
+  - name: "刀客"
+    url: https://blog.mboker.cn
+  - name: "及时行乐"
+    url: https://www.jsxlo.com
+  - name: "iSwl's Blog"
+    url: https://blog.iswl.vip
+  - name: "顾盼の记事本"
+    url: https://gupan.site
+  - name: "爆胎的博客"
+    url: https://www.itggg.cn
+  - name: "花开陌上"
+    url: https://moshanghua.net
+  - name: "炎忍的博客"
+    url: https://blog.imyan.ren
+  - name: "青行三の个人博客"
+    url: https://blog.jiehua1995.xyz
+  - name: "有次博客"
+    url: https://you.ci
+  - name: "SkyWT"
+    url: https://skywt.cn
+  - name: "执手对影成双"
+    url: https://www.lipk.org
+  - name: "MySpace"
+    url: https://www.zkl2333.com
+  - name: "皮毛技术君"
+    url: https://www.whoit.top
+  - name: "Passer"
+    url: https://takuron.top
+  - name: "山葵酱"
+    url: https://www.wasabi.fun
+  - name: "Ying"
+    url: https://blog.luvying.com
+  - name: "风之暇想"
+    url: https://www.fzxx.xyz
+  - name: "今今今生"
+    url: https://noheart.cn
+  - name: "ADD-SP‘s Blog"
+    url: https://www.addesp.com
+  - name: "游轶的小站"
+    url: https://blog.devyi.com
+  - name: "MHuiG's Blog"
+    url: https://blog.mhuig.top
+  - name: "JalenChuh"
+    url: https://blog.jalenchuh.cn
+  - name: "LiuYun"
+    url: https://blog.6yfz.cn
+  - name: "Geek Era"
+    url: https://www.geekera.cn
+  - name: "Oo笑容太甜oO"
+    url: https://kissbaofish.cn
+  - name: "F君的博客"
+    url: https://blog.fkun.tech
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,7 +164,6 @@ status-website:
   name: 测试
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  theme: ocean
   navbar:
     - title: Status
       href: /
