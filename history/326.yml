@@ -1,7 +1,7 @@
 url: https://xzy.one
-status: up
-code: 200
-responseTime: 1986
-lastUpdated: 2021-08-20T23:24:31.775Z
+status: down
+code: 500
+responseTime: 851
+lastUpdated: 2021-08-21T23:24:22.411Z
 startTime: Tue Aug 17 2021 14:57:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
